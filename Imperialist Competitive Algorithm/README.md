@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm">N Queen</a></td>
+    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm/N%20Queen">N Queen</a></td>
     <td>Solve N Queen Problem using Imperialist Competitive Algorithm (ICA) with Python</td>
   </tr>
 </table>
@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm">مسئله 8 وزیر</a></td>
+    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm/N%20Queen">مسئله 8 وزیر</a></td>
     <td>حل مسئله 8 وزیر توسط الگوریتم رقابت استعماری و پایتون</td>
   </tr>
 </table>
