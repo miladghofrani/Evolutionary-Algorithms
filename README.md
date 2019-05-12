@@ -11,15 +11,15 @@ Using Evolutionary Algorithm to solve benchmark problem
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Ant%20Colony%20Algorithm">Ant Colony Algorithm</a></td>
+    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Ant%20Colony%20Algorithm">Ant Colony Algorithm (ACO)</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Genetic%20Algorithms">Genetic Algorithms</a></td>
+    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Genetic%20Algorithms">Genetic Algorithms (GA)</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm">Imperialist Competitive Algorithm</a></td>
+    <td><a href="https://github.com/miladghofrani/Evolutionary-Algorithms/tree/master/Imperialist%20Competitive%20Algorithm">Imperialist Competitive Algorithm (ICA)</a></td>
   </tr>
 </table>
 
