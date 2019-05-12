@@ -1,4 +1,4 @@
-# Genetic Algorithms
+# Genetic Algorithms (GA)
 
 <h3>List of problems</h3>
 <table>
